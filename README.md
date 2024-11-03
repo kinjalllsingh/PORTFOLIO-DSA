@@ -1,7 +1,8 @@
-<table style="width: 100%; background: url('https://raw.githubusercontent.com/kinjalllsingh/PORTFOLIO-DSA/main/Sep_01.png') no-repeat center center; background-size: cover; padding: 50px; border: none;">
+<table style="width: 100%; background: url('https://images.unsplash.com/photo-1593642632785-e7b2d586a4a8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwzNjUyOXwwfDF8c2VhcmNofDF8fG1vbml0b3JpbmUlMjBhcnR8ZW58MHx8fHwxNjg1ODg2MjAw&ixlib=rb-4.0.3&q=80&w=1080') no-repeat center center; background-size: cover; padding: 50px; border: none;">
   <tr>
-    <td style="color: white; text-align: center; background-color: rgba(0, 0, 0, 0.5); padding: 20px;">
-      <h1>👋 Hello, I'm Kinjal Singh!</h1>
+    <td style="color: white; text-align: center; background-color: rgba(0, 0, 0, 0.6); padding: 20px;">
+      <h1>👋 Hello, I'm Kinjal Singh! <img src="https://raw.githubusercontent.com/kinjalllsingh/DSA-portfolio/main/your-photo.jpg" alt="Kinjal Singh's Photo" width="80" height="80" align="right"></h1>
+      
       <h2>About Me</h2>
       <p>Welcome to my portfolio! I am a student of <strong>Computer Science Engineering</strong> specializing in <strong>Computer Networking</strong> at <strong>SRM Institute of Science and Technology, Kattankulathur, Chennai</strong>. I have a strong foundation in <strong>Web Development</strong>, <strong>Problem Solving</strong>, and <strong>Data Structures and Algorithms (DSA)</strong>.</p>
       
